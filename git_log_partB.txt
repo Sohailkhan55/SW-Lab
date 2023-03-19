@@ -1,0 +1,101 @@
+commit 9a6f354bbaeea8f93cfbc6ade3828267d6d75022
+Author: sohail <khansohail33624@gmail.com>
+Date:   Sun Mar 19 20:09:36 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..54b64e0
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Developer
+\ No newline at end of file
+
+commit df5bf2c5056066235a0327c0a62758638e1428ce
+Author: sohail <khansohail33624@gmail.com>
+Date:   Sun Mar 19 20:06:02 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 09761ef..fd21080 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,2 @@
+-Mohd Sohail Ali Khan CSE Bawarchi MS Dhoni
+\ No newline at end of file
++Mohd Sohail Ali Khan CSE Bawarchi MS Dhoni
++Blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 54b64e0..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2025 Software Developer
+\ No newline at end of file
+
+commit 64ffe32c3b9b46f11853ee8e3b3a77b7c89ae5f7
+Author: sohail <khansohail33624@gmail.com>
+Date:   Sun Mar 19 20:01:29 2023 +0530
+
+    Commiting file2
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..54b64e0
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2025 Software Developer
+\ No newline at end of file
+
+commit 123bbe6323c2aa9baa0d70755acd98ebf9d6f56d
+Author: sohail <khansohail33624@gmail.com>
+Date:   Sun Mar 19 19:54:19 2023 +0530
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 9949a3b..09761ef 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Mohd Sohail Ali Khan CSE
+\ No newline at end of file
++Mohd Sohail Ali Khan CSE Bawarchi MS Dhoni
+\ No newline at end of file
+
+commit f1fedd05efc246ca11074a8114ba602af586a036
+Author: sohail <khansohail33624@gmail.com>
+Date:   Sun Mar 19 19:52:11 2023 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 203fd16..9949a3b 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Mohd Sohail Ali Khan 27347
+\ No newline at end of file
++Mohd Sohail Ali Khan CSE
+\ No newline at end of file
+
+commit 386a4780a6de0357922faf9de4424a5cf05392ba
+Author: sohail <khansohail33624@gmail.com>
+Date:   Sun Mar 19 19:46:15 2023 +0530
+
+    Commiting a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..203fd16
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Mohd Sohail Ali Khan 27347
+\ No newline at end of file
